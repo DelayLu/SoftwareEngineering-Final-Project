@@ -1,5 +1,5 @@
 # SoftwareEngineering-Final-Project
-This is the final team project for Software Engineering course, CS2043 at University of New Brunswick.
+This is the final team project created in 2014 Nov,for Software Engineering course, CS2043 at University of New Brunswick.
 
 It is a practise for software engineering thinking, UML diagram, Java programming, JDBC, simple SQL queries.
 
