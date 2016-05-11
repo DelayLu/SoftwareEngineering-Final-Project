@@ -1,7 +1,7 @@
 # SoftwareEngineering-Final-Project
 This is the final team project for Software Engineering course, CS2043 at University of New Brunswick.
 
-This project is a practise for software engineering thinking, UML diagram, Java programming, JDBC, simple SQL queries.
+It is a practise for software engineering thinking, UML diagram, Java programming, JDBC, simple SQL queries.
 
 The project is a simple Quiz Game. A user can login as either an admin or a normal player.
 A normal player can answer questions to earn score, after the game, a leaderboard will be displayed to present high scores.
